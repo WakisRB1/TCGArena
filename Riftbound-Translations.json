@@ -1,0 +1,24 @@
+{
+    "additionalLanguages": ["es","zh"],
+    "en": {
+        "Gameplay": {
+            "Classic": "Legacy (Spiritforged)",
+            "Unleashed": "Standard (Unleashed)",
+            "Multiplayer": "Multiplayer (Unleashed)"
+        }
+    },
+    "es": {
+        "Gameplay": {
+            "Classic": "Legacy (Spiritforged)",
+            "Unleashed": "Estándar (Spiritforged)",
+            "Multiplayer": "Multijugador (Spiritforged)"
+        }
+    }
+    "zh": {
+        "Gameplay": {
+            "Classic": "Legacy (Spiritforged)",
+            "Unleashed": "Standard (Unleashed)",
+            "Multiplayer": "Multiplayer (Unleashed)"
+        }
+    }
+}
